@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/Modelo de Bohr Interactivo.html" }
+  ]
+}
