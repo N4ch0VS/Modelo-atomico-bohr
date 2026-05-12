@@ -161,8 +161,8 @@ function Postulados() {
         <div className="container-narrow" style={{ margin: 0 }}>
           <div className="eyebrow reveal">El modelo</div>
           <h2 className="title reveal">
-            Tres ideas <em>sencillas.</em><br/>
-            Un cambio de paradigma.
+            Tres ideas <em>simples.</em><br/>
+            
           </h2>
         </div>
         <div className="postulados-grid">
